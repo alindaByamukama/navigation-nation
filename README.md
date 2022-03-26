@@ -7,3 +7,4 @@
 - [W3Schools - Menu Icon](https://www.w3schools.com/howto/howto_css_menu_icon.asp)
 - [Unsplash Images](https://unsplash.com/)
 - [Google Fonts](https://fonts.google.com/)
+- [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
